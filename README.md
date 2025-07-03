@@ -36,3 +36,63 @@ Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel
 B. Halaman Gallery
 
 Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
+
+![Cuplikan layar 2025-07-03 114521](https://github.com/user-attachments/assets/bdd089ce-c2f6-40a1-a229-33ace5cccdc9)
+
+C. Halaman About
+
+Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
+
+![Cuplikan layar 2025-07-03 114543](https://github.com/user-attachments/assets/bb4883b9-c973-4da9-bb9d-36e6168cb4b8)
+
+User Interface Halaman Admin
+
+A. Halaman Login
+
+Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
+
+![Cuplikan layar 2025-07-03 114600](https://github.com/user-attachments/assets/5c942c66-6cb8-4969-80bd-c7613d96bd35)
+
+B. Halaman Beranda
+
+Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
+
+![Cuplikan layar 2025-07-03 114634](https://github.com/user-attachments/assets/cb82ce0c-8e00-4788-99cb-58dbef74c0a0)
+
+C. Halaman Kelola Artikel
+
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+
+![Cuplikan layar 2025-07-03 114705](https://github.com/user-attachments/assets/a0580e75-ce17-4264-8d72-ec26c2aea6bf)
+
+![Cuplikan layar 2025-07-03 114744](https://github.com/user-attachments/assets/36b5325c-9dc6-4c09-964f-2af0cf1c3a3f)
+
+![Cuplikan layar 2025-07-03 114849](https://github.com/user-attachments/assets/3109bc37-6f05-45fd-a725-e043eaaf23e2)
+
+D. Halaman Kelola Gallery
+
+Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
+
+![Cuplikan layar 2025-07-03 124816](https://github.com/user-attachments/assets/0decf87c-d70c-4d38-b377-4c3abac72b45)
+
+![Cuplikan layar 2025-07-03 124832](https://github.com/user-attachments/assets/2ff94294-e546-42ea-9571-e1e13c89a090)
+
+![Cuplikan layar 2025-07-03 114932](https://github.com/user-attachments/assets/4349e572-6f21-44e1-bdbf-23d98289c89f)
+
+E. Halaman About
+
+Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
+
+![Cuplikan layar 2025-07-03 114949](https://github.com/user-attachments/assets/c1842b58-c305-4fcf-9bad-a3c9292b5e3f)
+
+![Cuplikan layar 2025-07-03 124627](https://github.com/user-attachments/assets/438ff2ff-bec1-4fd5-bbcc-361e8e7cff0c)
+
+![Cuplikan layar 2025-07-03 115017](https://github.com/user-attachments/assets/2e17307c-55f9-47ac-b6fd-2299ce32324a)
+
+
+
+
+
+
+
+
