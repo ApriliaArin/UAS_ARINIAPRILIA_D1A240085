@@ -30,4 +30,9 @@ User Interface Halaman Publik
 A. Halaman Home / Artikel
 
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
-"C:\Users\ASUS\OneDrive\Pictures\Screenshots\Cuplikan layar 2025-07-03 114511.png"
+
+![Cuplikan layar 2025-07-03 114511](https://github.com/user-attachments/assets/a400f2e0-8424-4b10-b4f9-8e37e9dc4082)
+
+B. Halaman Gallery
+
+Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
