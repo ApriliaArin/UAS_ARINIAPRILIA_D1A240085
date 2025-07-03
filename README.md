@@ -1,6 +1,7 @@
 Deskripsi
 
 Studi kasus ini bertujuan untuk membangun sebuah aplikasi web personal yang bersifat dinamis, di mana pemilik web dapat mengelola konten secara mandiri melalui halaman admin. Aplikasi dikembangkan menggunakan PHP dan menyimpan data menggunakan database MySQL. Tampilan antarmuka dirancang menggunakan Tailwind CSS agar responsif, modern, dan mudah dikustomisasi.
+Di Studi Kasus ini pula memuat data milik pengguna yang berisikan Artikel, Gallery foto milik pribadi, dan Biodata singkat.
 
 Website ini memiliki dua bagian utama yaitu:
 1. Halaman Publik, yang dapat diakses oleh semua pengunjung.
@@ -35,13 +36,13 @@ Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel
 
 B. Halaman Gallery
 
-Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
+Halaman Gallery adalah halaman yang menampilkan foto-foto secara individu atau lainnya.
 
-![Cuplikan layar 2025-07-03 114521](https://github.com/user-attachments/assets/bdd089ce-c2f6-40a1-a229-33ace5cccdc9)
+![Cuplikan layar 2025-07-03 125120](https://github.com/user-attachments/assets/d5c04621-4895-4e0c-a1b3-12e2e9912747)
 
 C. Halaman About
 
-Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
+Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing pengguna.
 
 ![Cuplikan layar 2025-07-03 114543](https://github.com/user-attachments/assets/bb4883b9-c973-4da9-bb9d-36e6168cb4b8)
 
@@ -49,7 +50,7 @@ User Interface Halaman Admin
 
 A. Halaman Login
 
-Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
+Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, yang tentu diperlukan username dan password untuk masuk dan mengakses nya lebih lanjut.
 
 ![Cuplikan layar 2025-07-03 114600](https://github.com/user-attachments/assets/5c942c66-6cb8-4969-80bd-c7613d96bd35)
 
@@ -61,7 +62,7 @@ Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan 
 
 C. Halaman Kelola Artikel
 
-Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampilan Artikel, Menambah Artikel, Edit Artikel dan Hapus Artikel.
 
 ![Cuplikan layar 2025-07-03 114705](https://github.com/user-attachments/assets/a0580e75-ce17-4264-8d72-ec26c2aea6bf)
 
@@ -71,7 +72,7 @@ Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampi
 
 D. Halaman Kelola Gallery
 
-Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
+Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampilan Gallery, Menambah foto / gambar baru pada Gallery, Edit Gallery dan Hapus Gallery.
 
 ![Cuplikan layar 2025-07-03 124816](https://github.com/user-attachments/assets/0decf87c-d70c-4d38-b377-4c3abac72b45)
 
@@ -81,7 +82,7 @@ Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampi
 
 E. Halaman About
 
-Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
+Halaman About adalah halaman untuk mengelola About dimulai dari Tampilan About, Menambah About, Edit About dan Hapus About.
 
 ![Cuplikan layar 2025-07-03 114949](https://github.com/user-attachments/assets/c1842b58-c305-4fcf-9bad-a3c9292b5e3f)
 
