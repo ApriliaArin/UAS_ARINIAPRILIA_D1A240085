@@ -26,3 +26,8 @@ Struktur Folder
 ![image](https://github.com/user-attachments/assets/a6b7fa2f-0b9e-4c93-89f3-0ba4014f5ba5)
 
 User Interface Halaman Publik
+
+A. Halaman Home / Artikel
+
+Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
+"C:\Users\ASUS\OneDrive\Pictures\Screenshots\Cuplikan layar 2025-07-03 114511.png"
